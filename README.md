@@ -17,17 +17,17 @@
 <summary><b> my full Tech Stack </b></summary>
 
 #### Data Science & AI
-* **Python Stack:** `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`, `PyTorch`
+* **Python Stack:** `Pandas`, `NumPy`, `Matplotlib`, `Plotly`, `Altair`, `Scikit-learn`, `PyTorch`
 * **R Stack:** `Tidyverse`, `ggplot2`
-* **Visualization:** `Power BI`, `Matplotlib`, `Seaborn`
+* **Visualization:** `Power BI`, `Streamlit`, `Shiny`
 * **Expertise:** Machine Learning, Advanced Mathematics, Statistical Modeling
 
 #### Software Engineering
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `Python`, `R`, `C#`, `SQL`, `VBA`, `PHP` |
-| **Frontend** | `React.js`, `JavaScript`, `HTML5`, `CSS3`, `Bootstrap`, `XAML/WPF` |
-| **Backend** | `ASP.NET`, `Node.js` |
+| **Frontend** | `Angular`, `React.js`, `JQuery`, `JavaScript`, `HTML5`, `CSS3`, `Bootstrap`, `XAML/WPF` |
+| **Backend** | `ASP.NET`, `Node.js`, `Django`, `MySQL`, `MSSQL`, `PostgreSQL` |
 | **DevOps** | `Git`, `Docker`, `Cloud Infrastructure` |
 
 #### Languages & Communication
@@ -36,22 +36,16 @@
 * **English:** Full Professional Proficiency (C2)
 
 <pre>
-───────────────────────────────────────
-───▐▀▄───────▄▀▌───▄▄▄▄▄▄▄─────────────
-───▌▒▒▀▄▄▄▄▄▀▒▒▐▄▀▀▒██▒██▒▀▀▄──────────
-──▐▒▒▒▒▀▒▀▒▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄────────
-──▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄▒▒▒▒▒▒▒▒▒▒▒▒▀▄──────
-▀█▒▒▒█▌▒▒█▒▒▐█▒▒▒▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌─────
-▀▌▒▒▒▒▒▒▀▒▀▒▒▒▒▒▒▀▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐───▄▄
-▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌▄█▒█
-▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒█▀─
-▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▀───
-▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌────
-─▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐─────
-─▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌─────
-──▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐──────
-──▐▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄▌──────
-────▀▄▄▀▀▀▀▀▄▄▀▀▀▀▀▀▀▄▄▀▀▀▀▀▄▄▀────────
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢠⡾⠲⠶⣤⣀⣠⣤⣤⣤⣿⣿⣷⣠⣴⣶⣶⡆⠀⠀⠀
+⠀⠀⠀⣼⠁⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀
+⠀⠀⠀⢹⡶⠀⠀⠀⠀⠀⠀⠸⢯⣿⣿⡿⢻⣿⣿⣿⢿⡏⠀⠀
+⠀⠀⢀⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⣿⠁⠀⠀
+⠀⣀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⣧⣤⡀
+⠈⠉⠹⣏⡁⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⢀⣸⣇⣀⠀
+⠀⠐⠋⢻⣅⡄⢀⣀⣀⡀⠀⠿⠿⠀⢀⣀⣈⡀⠀⣤⣿⠀⠉⠀
+⠀⠀⠴⠛⠙⣳⠋⠉⠉⠙⣆⠀⠀⢰⡟⠉⠈⠙⢷⠟⠈⠙⠂⠀
+⠀⠀⠀⠀⠀⢻⣄⣠⣤⣴⠟⠛⠛⠛⢧⣤⣤⣀⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
 
 </details>
