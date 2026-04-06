@@ -5,7 +5,7 @@
 
 # Hi, I'm Paulina! 
 
-> **Engineering-First Data Scientist with an affection for math** | [𑣲My Web-Folio](https://my-webfolio-ten.vercel.app/)
+> **(Aspiring) Engineering-First Data Scientist** | [𑣲My Web-Folio](https://my-webfolio-ten.vercel.app/)
 
 ---
 <!--
@@ -25,9 +25,9 @@
 #### Software Engineering
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python`, `R`, `C#`, `SQL`, `VBA`, `PHP` |
+| **Languages** | `Python`, `R`, `C#`, `SQL`, `VBA`, `PHP`, `Java` |
 | **Frontend** | `Angular`, `React.js`, `JQuery`, `JavaScript`, `HTML5`, `CSS3`, `Bootstrap`, `XAML/WPF` |
-| **Backend** | `ASP.NET`, `Node.js`, `Django`, `MySQL`, `MSSQL`, `PostgreSQL` |
+| **Backend** | `ASP.NET`, `Node.js`, `Django`, `SpringBoot`, `MySQL`, `MSSQL`, `PostgreSQL` |
 | **DevOps** | `Git`, `Docker`, `Cloud Infrastructure` |
 
 #### Languages & Communication
