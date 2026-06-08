@@ -15,22 +15,19 @@
         <tr><td><strong>Languages</strong></td><td><code>Python</code>, <code>R</code>, <code>C</code>, <code>C#</code>, <code>SQL</code>, <code>PHP</code>, <code>TypeScript</code></td></tr>
         <tr><td><strong>Frameworks</strong></td><td><code>React</code>, <code>ASP.NET</code>, <code>XAML</code>, <code>WPF</code>, <code>Django</code></td></tr>
         <tr><td><strong>Technologies</strong></td><td><code>Git</code>, <code>Docker</code>, <code>Linux</code>, <code>MSSQL</code></td></tr>
-      </table>
-      <table style="margin-top: 12px;">
-        <tr>
           <td><strong>Data</strong></th>
           <td><code>Econometrics</code>, <code>Machine Learning</code>, <code>Quant Finance</code></td>
         </tr>
        </table>
     </td>
     <td>
-      <h4>Communication</h5>
+      <strong>‎  ‎ Communication‎ ‎ ‎ ‎</strong>
       <ul>
-        <li><strong>Polish:</strong> Native</li>
-        <li><strong>German:</strong> Native</li>
-        <li><strong>English:</strong> Proficient</li>
+        <li><strong>Polish:</strong></li>
+        <li><strong>German:</strong></li>
+        <li><strong>English:</strong></li>
       </ul>
-      <p></p>
+      <p> ‎ ‎‎ levels: proficient</p>
     </td>
     <td>
       <pre>
