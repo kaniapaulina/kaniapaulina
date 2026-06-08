@@ -16,18 +16,17 @@
         <tr><td><strong>Frameworks</strong></td><td><code>React</code>, <code>ASP.NET</code>, <code>XAML</code>, <code>WPF</code>, <code>Django</code></td></tr>
         <tr><td><strong>Technologies</strong></td><td><code>Git</code>, <code>Docker</code>, <code>Linux</code>, <code>MSSQL</code></td></tr>
           <td><strong>Data</strong></th>
-          <td><code>Econometrics</code>, <code>Machine Learning</code>, <code>Quant Finance</code></td>
+          <td><code>Econometrics</code>, <code>Machine Learning</code>, <br/><code>Quant Finance</code>, <code>Algorithms</code></td>
         </tr>
        </table>
     </td>
     <td>
-      <strong>‎  ‎ Communication‎ ‎ ‎ ‎</strong>
+      <strong>Communication‎‎</strong>
       <ul>
         <li><strong>Polish:</strong></li>
         <li><strong>German:</strong></li>
         <li><strong>English:</strong></li>
       </ul>
-      <p> ‎ ‎‎ levels: proficient</p>
     </td>
     <td>
       <pre>
@@ -39,7 +38,7 @@
 ⠈⠉⠹⣏⡁⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⢀⣸⣇⣀⠀
 ⠀⠐⠋⢻⣅⡄⢀⣀⣀⡀⠀⠿⠿⠀⢀⣀⣈⡀⠀⣤⣿⠀⠉⠀
 ⠀⠀⠴⠛⠙⣳⠋⠉⠉⠙⣆⠀⠀⢰⡟⠉⠈⠙⢷⠟⠈⠙⠂⠀
-⠀⠀⠀⠀⠀⢻⣄⣠⣤⣴⠟⠛⠛⠛⢧⣤⣤⣀⡾⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢻⣄⣠⣤⣴⠟⠛⠛⠛⢧⣤⣤⣀⡾⠀⠀⠀
   </pre>
     </td>
   </tr>
