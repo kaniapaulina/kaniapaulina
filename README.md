@@ -1,63 +1,50 @@
-<p align="right">
-  <!--<img src="https://img.shields.io/badge/Status-Active-800000?style=flat-square" alt="status"/>-->
-  <img src="https://komarev.com/ghpvc/?username=kaniapaulina&color=800000" alt="visitor count" />
-</p>
 
-**(Aspiring) Engineering-First Data Scientist**
-<!--
-### My Coding Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaniapaulina&layout=compact&title_color=800000&text_color=4a0000&bg_color=fdfcf5&hide_border=false)
--->
+<div align="center">
 <table>
   <tr>
     <td>
+      <p align="left">
+        <strong><a>⠀</a>job aspirant</strong>
+      </p>
+    </td>
+    <td>
+      <p align="right">
+          <img src="https://img.shields.io/badge/Status-Active-000000?style=flat-square" alt="status"/>
+          <img src="https://komarev.com/ghpvc/?username=kaniapaulina&color=000000&style=flat-square&&abbreviated=true" alt="visitor count" />
+        </p>
+    </td></tr>
+  <tr>
+    <td>
       <table>
-        <tr><td><strong>Languages</strong></td><td><code>Python</code>, <code>R</code>, <code>C</code>, <code>C#</code>, <code>SQL</code>, <code>PHP</code>, <code>TypeScript</code></td></tr>
-        <tr><td><strong>Frameworks</strong></td><td><code>React</code>, <code>ASP.NET</code>, <code>XAML</code>, <code>WPF</code>, <code>Django</code></td></tr>
-        <tr><td><strong>Technologies</strong></td><td><code>Git</code>, <code>Docker</code>, <code>Linux</code>, <code>MSSQL</code></td></tr>
-          <td><strong>Data</strong></th>
-          <td><code>Econometrics</code>, <code>Machine Learning</code>, <br/><code>Quant Finance</code>, <code>Algorithms</code></td>
+        <tr><td align="left"><strong>Languages</strong></td><td align="left"><code>Python</code>, <code>R</code>, <code>C</code>, <code>C#</code>, <code>SQL</code>, <code>PHP</code>, <code>TypeScript</code></td></tr>
+        <tr><td align="left"><strong>Frameworks</strong></td><td align="left"><code>React</code>, <code>ASP.NET</code>, <code>XAML</code>, <code>WPF</code>, <code>Django</code></td></tr>
+        <tr><td align="left"><strong>Technologies</strong></td><td align="left"><code>Git</code>, <code>Docker</code>, <code>Linux</code>, <code>MSSQL</code></td></tr>
+          <td align="left"><strong>Data</strong></th>
+          <td align="left"><code>Econometrics</code>, <code>Machine Learning</code>, <br/><code>Quant Finance</code>, <code>Algorithms</code></td>
         </tr>
        </table>
     </td>
     <td>
-      <strong>Communication‎‎</strong>
-      <ul>
-        <li><strong>Polish:</strong></li>
-        <li><strong>German:</strong></li>
-        <li><strong>English:</strong></li>
-      </ul>
-    </td>
-    <td>
       <pre>
-⠀⠀⠀⢠⡾⠲⠶⣤⣀⣠⣤⣤⣤⣿⣿⣷⣠⣴⣶⣶⡆⠀⠀⠀
-⠀⠀⠀⣼⠁⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀
-⠀⠀⠀⢹⡶⠀⠀⠀⠀⠀⠀⠸⢯⣿⣿⡿⢻⣿⣿⣿⢿⡏⠀⠀
-⠀⠀⢀⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⣿⠁⠀⠀
-⠀⣀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⣧⣤⡀
-⠈⠉⠹⣏⡁⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⢀⣸⣇⣀⠀
-⠀⠐⠋⢻⣅⡄⢀⣀⣀⡀⠀⠿⠿⠀⢀⣀⣈⡀⠀⣤⣿⠀⠉⠀
-⠀⠀⠴⠛⠙⣳⠋⠉⠉⠙⣆⠀⠀⢰⡟⠉⠈⠙⢷⠟⠈⠙⠂⠀
-⠀⠀⠀⠀⠀⢻⣄⣠⣤⣴⠟⠛⠛⠛⢧⣤⣤⣀⡾⠀⠀⠀
-  </pre>
+⠀⠀⠀⠀⠀⠀⢀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣾⣿⡇⠀⠀⠀⠀⠀⢀⣼⡇
+⠀⠀⠀⠀⠀⣸⣿⣿⡇⠀⠀⠀⠀⣴⣿⣿⠃
+⠀⠀⠀⠀⢠⣿⣿⣿⣇⠀⠀⢀⣾⣿⣿⣿⠀
+⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⡟⠀
+⠀⠀⢰⡿⠉⠀⡜⣿⣿⣿⡿⠿⢿⣿⣿⠃⠀
+⠒⠒⠸⣿⣄⡘⣃⣿⣿⡟⢰⠃⠀⢹⣿⡇⠀
+⠚⠉⠀⠈⠻⣿⣿⣿⣿⣿⣮⣤⣤⣿⡟⠁⠀
+⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠛⠛⠛⠁⠀⠒⠤
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠀⠀
+      </pre>
     </td>
   </tr>
+  <tr><td></td><td></td></tr>
 </table>
+  
+</div>
 
 <!--
-|   |   |
-|---|---|
-| Languages |  `Python`, `R`, `C`, `C#`, `SQL`, `PHP`, `JavaScript` |
-| Frameworks | `React`, `ASP.NET`, `XAML`, `WPF`, `Django` |
-| Technologies | `Git`, `Docker`, `Linux`, `MSSQL` |
-|   |   |
-
-##### Communication
-* **Polish:** Native
-* **German:** Native
-* **English:** Full Professional Proficiency (C2)
-
-
 <details>
 <summary></summary>
   <pre>
@@ -70,6 +57,21 @@
 ⠀⠐⠋⢻⣅⡄⢀⣀⣀⡀⠀⠿⠿⠀⢀⣀⣈⡀⠀⣤⣿⠀⠉⠀
 ⠀⠀⠴⠛⠙⣳⠋⠉⠉⠙⣆⠀⠀⢰⡟⠉⠈⠙⢷⠟⠈⠙⠂⠀
 ⠀⠀⠀⠀⠀⢻⣄⣠⣤⣴⠟⠛⠛⠛⢧⣤⣤⣀⡾⠀⠀⠀⠀⠀
+
+
+⠀⠀⠀⠀⢀⣤⠤⣄⠀⠀⠀⠀⣠⠤⣄⠀⠀⠀
+⠀⠀⠀⢠⠞⠀⠀⠈⢷⠀⠀⡜⠃⠀⠈⢳⠀⠀
+⠀⠀⠀⣾⠀⠀⠀⠀⠘⡇⢰⠅⠀⠀⠀⠸⡇⠀
+⠀⠀⠀⣿⠀⠀⠀⠀⠀⡇⣾⠀⠀⠀⠀⢸⠃⠀
+⠀⠀⠀⢹⡀⠀⠀⠀⠀⡇⣿⠀⠀⠀⠀⡾⠀⠀
+⠀⠀⠀⠸⡇⠀⠀⠀⠀⠷⠿⠀⠀⠀⢰⠇⠀⠀
+⠀⢀⡴⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢶⡀⠀
+⢰⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄
+⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷
+⢹⠀⠀⠀⢰⡆⠀⠀⠀⠀⠀⠀⢀⣄⠀⠀⠀⡟
+⠈⢧⡀⠀⠀⠀⠀⠀⢄⡀⣀⠀⠀⠁⠀⠀⣸⠃
+⠀⠈⠻⢦⣀⠀⠀⠀⠚⠙⠂⠀⠀⠀⣀⡴⠋⠀
+⠀              ⠀⠀⠀⠈⠉⠓⠒⠲⠶⠶⠒⠒⠋⠁⠀⠀
   </pre>
 ⠀
 </details>-->
